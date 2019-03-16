@@ -27,7 +27,7 @@ $ ./Fibonacci
 ```
 $ For what integer you need to calculate Fibonacci number? 
 
-40
+30
 ```
 
 ## References
