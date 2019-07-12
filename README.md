@@ -8,7 +8,7 @@
 ```
 Xn+2= Xn+1 + Xn
 ```
-#### This elementary algorithm uses recursion to calculate fibonacci number for an user inputted number. This algorithm also serves as an example for time-complexities associated with recursion (compared to a iterative approach). 
+#### This elementary algorithm uses recursion to calculate fibonacci number for an user input number. This algorithm also serves as an example for time-complexities associated with recursion (compared to a iterative approach). 
 
 ## Usage
 
